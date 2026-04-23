@@ -1,7 +1,7 @@
 # AWS VPC — Infrastructure as Code (Terraform)
 
 ## Overview
-Provisions a VPC on AWS using Terraform, including public and private subnets, 
+Provisioned a VPC on AWS using Terraform, including public and private subnets, 
 an internet gateway, and route tables. Built as part of an AWS Solutions Architect portfolio.
 
 ## Architecture
@@ -32,4 +32,4 @@ terraform destroy   # clean up all resources when done
 - Tagging strategy for environment and cost tracking
 
 ## Project Status
-Complete. Next: extending this VPC as the network layer for a 3-tier app (Project 1).
+Complete.
