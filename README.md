@@ -1,4 +1,4 @@
-# AWS VPC — Infrastructure as Code (Terraform)
+# AWS VPC | Infrastructure as Code (Terraform)
 
 ## Overview
 Provisioned a VPC on AWS using Terraform, including public and private subnets, 
